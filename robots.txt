@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://school.nowshirwan.me/sitemap.xml
